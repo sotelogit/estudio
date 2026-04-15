@@ -4,7 +4,7 @@ horas = float(input("introdusca horas: "))
 tarifa = float(input("introdusca Tarifa: "))
 # calcular salario
 salario = horas * tarifa
-print("Salario es;",salario)
+print("Salario es",salario)
 
 horas=float(input("cantidad de horas trabajadas: "))
 #ahora el precio
