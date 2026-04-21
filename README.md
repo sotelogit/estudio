@@ -1,1 +1,1 @@
-este repositorio contiene varios programas simples ques estoy aprendiendo
+Este repositorio contiene algunos programas simples ques estoy aprendiendo
