@@ -7,12 +7,9 @@
 
 - [x] Sumatoria 😎
 - [x] Cuenta Regresiva 😎
-- [x] Práctico de Matrices 😢
+- [x] Práctica de Matrices 😢
 - [x] recursividad 
-- [x] Sumatoria 
 - [x] Cuenta Regresiva 
-- [x] Práctico de Matrices 
-- [x] recursividad 
 - [x] asensor 
 - [x] grados.py
 
