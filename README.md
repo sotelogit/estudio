@@ -9,4 +9,6 @@
 - [x] recursividad 
 - [x] asensor 
 
-![Texto descriptivo](./imagen/ima.jpg)
+<p align="center">
+  <img src="imagen/foto.jpg" width="400">
+</p>
