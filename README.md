@@ -3,7 +3,10 @@
 
  
 ## 📋  Mis Prácticas de Programación - UNAB 🐍
-- [x] Sumatoria 😎
-- [x] Cuenta Regresiva 😎
-- [x] Práctico de Matrices 😢
-- [x] recursividad 😢
+- [x] Sumatoria 
+- [x] Cuenta Regresiva 
+- [x] Práctico de Matrices 
+- [x] recursividad 
+- [x] asensor 
+
+![Texto descriptivo](./imagen/ima.jpg)
