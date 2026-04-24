@@ -8,7 +8,8 @@
 - [x] Práctico de Matrices 
 - [x] recursividad 
 - [x] asensor 
+- [x] grados.py
 
 <p align="center">
-  <img src="imagen/foto.jpg" width="400">
+  <img src="imagen/foto.jpg" width="100%" height="150px" style="object-fit: cover;">
 </p>
