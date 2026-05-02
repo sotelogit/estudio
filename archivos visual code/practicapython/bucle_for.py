@@ -1,7 +1,7 @@
 
 amigos=('Alice', 'Bob', 'Charlie', 'David', 'Eve')
 for cada_uno in amigos:    
-    print('feliz ano', cada_uno, '!!!')
+    print('feliz ano nuevo, ', cada_uno, end=' ')
 print("terminado")
 
 contador = 0
