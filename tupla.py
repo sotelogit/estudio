@@ -1,1 +1,0 @@
-x.index(object)#retorna o índice da primeira ocorrência do objeto na tupla

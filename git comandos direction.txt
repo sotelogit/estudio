@@ -1,0 +1,7 @@
+git commit -m "nombre descriptivo del commit"
+git add . "añadir archivos en general"
+git checkout main (Voy a la principal).
+
+git merge (nombre de rama a unir)
+
+git push

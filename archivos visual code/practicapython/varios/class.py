@@ -12,5 +12,11 @@ class menu:
    print("guarnicion: papas fritas, ensalada verde o pure de papas")
    
 menu1 = menu("arros", "estofado", "pati", "milanesa", "pizza", "asado", "pastas")
-print(menu1.lunes)
-menu1.guarnicion()
+
+print("El menu del lunes es:", menu1.lunes)
+print("El menu del martes es:", menu1.martes)
+print("El menu del miércoles es:", menu1.miercoles)
+print("El menu del jueves es:", menu1.jueves)
+print("El menu del viernes es:", menu1.viernes)
+print("El menu del sábado es:", menu1.sabado)
+print("El menu del domingo es:", menu1.domingo)
