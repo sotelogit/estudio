@@ -4,4 +4,6 @@ def min(valores):
   if menor is None or valor < menor:
    menor = valor
  return menor
-print(min([3, 41, 12, 9, 74, 15]))
+numeros = [5, 2, 9, 1, 5, 6]
+resultado = min(numeros)
+print("El valor mínimo es:", resultado)
