@@ -5,5 +5,5 @@ def factorial(n):
     # Llamada recursiva
     else:
         return n * factorial(n - 1)
-print(factorial(5))    
+print(factorial(5))  # Debería imprimir 120, ya que 5! = 5 * 4 * 3 * 2 * 1 = 120
 
